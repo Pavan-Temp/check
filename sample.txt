@@ -1,1 +1,2 @@
 this is the sample place where we learn git and github basic Commands
+sample text
