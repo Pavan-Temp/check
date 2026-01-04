@@ -1,2 +1,6 @@
 this file is created as a sub-file to the main one!
+<<<<<<< HEAD
 there is something needed to be added!
+=======
+this line is added through github website!
+>>>>>>> a4179e5368a1bdac664ef2f4ec8a64f3ef9ccd3b
